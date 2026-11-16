@@ -86,7 +86,11 @@ Por isso, **não há download público do instalador** nesta vitrine. Demonstra�
 
 Se você administra um pequeno comércio e deseja conhecer a proposta, entre em contato para conversar sobre necessidades, demonstrações e disponibilidade.
 
-**[Contato pelo LinkedIn — Arthur Kohler](https://www.linkedin.com/in/arthurkohlerdev/)**
+**Entre em contato para conhecer o VENDRA, solicitar uma demonstração ou conversar sobre seu negócio.**
+
+**E-mail:** [arthurbkohler.dev@gmail.com](mailto:arthurbkohler.dev@gmail.com)
+
+**LinkedIn:** [Arthur Kohler](https://www.linkedin.com/in/arthurkohlerdev/)
 
 ---
 

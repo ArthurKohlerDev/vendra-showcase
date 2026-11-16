@@ -1,19 +1,21 @@
-# Capturas de tela para a vitrine
+# Capturas de tela — VENDRA
 
-**Ainda não foram incluídas imagens reais neste pacote.** Não use imagens de produção ou com informações de clientes.
+Esta pasta reúne capturas da interface do VENDRA
+utilizadas na apresentação pública do produto.
 
-Para ativar a galeria do `README.md`, inclua aqui três capturas com estes nomes:
+## Telas disponíveis
 
-1. `dashboard.png` — tela principal com métricas fictícias.
-2. `estoque.png` — controle de produtos ou histórico de estoque, sem nomes reais.
-3. `rifas.png` — cadastro/gestão de rifas, sem participantes, contatos ou grupos reais.
+| Arquivo | Descrição |
+|---|---|
+| dashboard.png | Painel principal com indicadores e informações gerais. |
+| historico.png | Histórico e consulta de operações. |
+| caixa.png | Interface de caixa e registro de vendas. |
 
-Depois, remova apenas os delimitadores do comentário HTML que envolvem a galeria em `README.md`.
+## Sobre as imagens
 
-Sugestões de arquivos **somente para revisão local** no repositório privado VENDRA:
+As capturas apresentam o design do sistema e
+suas principais funcionalidades.
 
-- `artefatos/validacao-visual/dashboard-1920x1080.png`
-- `artefatos/validacao-visual/historico-estoque-1920x1080.png`
-- `artefatos/validacao-visual/historico-rifas-1920x1080.png`
-
-Esses caminhos são referências de trabalho. Confira visualmente os arquivos antes de copiar; não presuma que estejam livres de dados sensíveis. Não faça links públicos para imagens que permanecem em repositório privado.
+Antes de publicar novas imagens, verificar se
+não contêm informações pessoais, credenciais
+ou dados confidenciais de clientes.

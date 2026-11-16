@@ -10,7 +10,7 @@
 [![Tecnologia](https://img.shields.io/badge/Tecnologia-C%23%20%2B%20.NET%208-512BD4?style=flat-square&logo=dotnet)](#tecnologia-e-arquitetura)
 [![Status](https://img.shields.io/badge/Status-Em%20prepara%C3%A7%C3%A3o%20para%20implanta%C3%A7%C3%A3o-c8983c?style=flat-square)](#status-do-produto)
 
-**[Conversar sobre o VENDRA](https://www.linkedin.com/in/arthurkohlerdev/)** · **[Ver informações técnicas](docs/ARQUITETURA-RESUMIDA.md)**
+**[Solicitar demonstração pelo WhatsApp](https://wa.me/5547992158335?text=Ol%C3%A1%21%20Conheci%20o%20VENDRA%20pelo%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20sistema.)** · **[Ver informações técnicas](docs/ARQUITETURA-RESUMIDA.md)**
 
 </div>
 

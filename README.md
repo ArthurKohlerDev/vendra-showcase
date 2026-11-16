@@ -90,6 +90,8 @@ Se você administra um pequeno comércio e deseja conhecer a proposta, entre em 
 
 **E-mail:** [arthurbkohler.dev@gmail.com](mailto:arthurbkohler.dev@gmail.com)
 
+**WhatsApp:** [Conversar sobre o VENDRA](https://wa.me/5547992158335?text=Ol%C3%A1%21%20Conheci%20o%20VENDRA%20pelo%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20sistema.)
+
 **LinkedIn:** [Arthur Kohler](https://www.linkedin.com/in/arthurkohlerdev/)
 
 ---

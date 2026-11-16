@@ -1,0 +1,23 @@
+# Dados, credenciais e artefatos operacionais que nunca devem ir para a vitrine
+*.fdb
+*.FDB
+*.fbk
+*.FBK
+.env
+.env.*
+appsettings.json
+appsettings.*.json
+*.secrets.json
+*.pfx
+*.key
+*.pem
+bin/
+obj/
+node_modules/
+TestResults/
+logs/
+*.log
+*.zip
+*.exe
+*.msi
+*.msix

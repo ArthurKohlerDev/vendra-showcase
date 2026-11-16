@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">VENDRA — Gestão que acompanha seu negócio</title>
+<desc id="desc">Banner em grafite e dourado com o nome VENDRA, destaque para estoque, caixa e rifas.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101216"/><stop offset="0.65" stop-color="#1d2227"/><stop offset="1" stop-color="#0e1114"/></linearGradient>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#f5d28c"/><stop offset="1" stop-color="#d7a841"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="#ffffff" stroke-opacity=".032"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="36"/></filter>
+ </defs>
+ <rect width="1280" height="360" fill="url(#bg)"/>
+ <rect width="1280" height="360" fill="url(#grid)"/>
+ <circle cx="1110" cy="50" r="165" fill="#cc9a3a" fill-opacity=".11" filter="url(#glow)"/>
+ <rect x="54" y="51" width="5" height="256" rx="2.5" fill="url(#gold)"/>
+ <rect x="83" y="56" width="151" height="30" rx="15" fill="#c49a44" fill-opacity=".14" stroke="#c49a44" stroke-opacity=".37"/>
+ <text x="159" y="77" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle" font-size="13" font-weight="700" fill="#edc878" letter-spacing="2">SISTEMA DESKTOP</text>
+ <text x="82" y="183" font-family="Segoe UI,Arial,sans-serif" font-size="102" font-weight="800" letter-spacing="8" fill="url(#gold)">VENDRA</text>
+ <text x="87" y="223" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#e7e9eb">Gestão que acompanha seu negócio.</text>
+ <text x="87" y="272" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#aeb7c0" letter-spacing="1">ESTOQUE   /   CAIXA   /   RIFAS &amp; SORTEIOS</text>
+ <g transform="translate(938 71)">
+  <rect width="251" height="218" rx="22" fill="#ffffff" fill-opacity=".033" stroke="#e6bf71" stroke-opacity=".26"/>
+  <rect x="25" y="27" width="200" height="49" rx="11" fill="#171d21" stroke="#e6bf71" stroke-opacity=".21"/>
+  <rect x="40" y="40" width="21" height="21" rx="5" fill="#e3b65a"/>
+  <text x="76" y="59" font-family="Segoe UI,Arial,sans-serif" fill="#e3e5e8" font-size="17" font-weight="650">Estoque</text>
+  <rect x="25" y="86" width="200" height="49" rx="11" fill="#171d21" stroke="#e6bf71" stroke-opacity=".21"/>
+  <rect x="40" y="99" width="21" height="21" rx="5" fill="#e3b65a"/>
+  <text x="76" y="118" font-family="Segoe UI,Arial,sans-serif" fill="#e3e5e8" font-size="17" font-weight="650">Caixa e vendas</text>
+  <rect x="25" y="145" width="200" height="49" rx="11" fill="#171d21" stroke="#e6bf71" stroke-opacity=".21"/>
+  <rect x="40" y="158" width="21" height="21" rx="5" fill="#e3b65a"/>
+  <text x="76" y="177" font-family="Segoe UI,Arial,sans-serif" fill="#e3e5e8" font-size="17" font-weight="650">Rifas e sorteios</text>
+ </g>
+</svg>

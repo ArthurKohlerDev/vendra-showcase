@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="VENDRA — Sistema desktop para pequenos comércios: estoque, caixa, rifas e sorteios" width="100%" />
+<img src="assets/banner.svg" alt="VENDRA — Sistema desktop para pequenos comércios: estoque, caixa, rifas e sorteios" width="100%" />
 
 ### Um lugar para organizar as operações do seu comércio.
 

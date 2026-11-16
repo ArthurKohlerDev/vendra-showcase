@@ -49,13 +49,18 @@ A interface utiliza tema **grafite escuro com detalhes dourados**, com foco na l
 
 > **Capturas reais em revisão.** Para publicar imagens, substitua os exemplos de demonstração pelos arquivos aprovados, sem dados pessoais, números de telefone, credenciais ou informações de clientes. Consulte [o guia de imagens](assets/screenshots/README.md).
 
-<!-- Após aprovar e incluir os três PNGs, remova esta linha e o fechamento do comentário.
 <div align="center">
-  <img src="assets/screenshots/dashboard.png" width="90%" alt="Dashboard do VENDRA com dados fictícios" />
-  <img src="assets/screenshots/estoque.png" width="90%" alt="Tela de estoque do VENDRA com dados fictícios" />
-  <img src="assets/screenshots/rifas.png" width="90%" alt="Tela de rifas do VENDRA com dados fictícios" />
+
+  <h3>Dashboard</h3>
+  <img src="assets/screenshots/dashboard.png" width="90%" alt="Dashboard do VENDRA" />
+
+  <h3>Histórico de operações</h3>
+  <img src="assets/screenshots/historico.png" width="90%" alt="Histórico de operações do VENDRA" />
+
+  <h3>Caixa e vendas</h3>
+  <img src="assets/screenshots/caixa.png" width="90%" alt="Tela de caixa e vendas do VENDRA" />
+
 </div>
--->
 
 ## Tecnologia e arquitetura
 

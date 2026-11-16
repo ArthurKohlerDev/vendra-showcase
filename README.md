@@ -47,7 +47,7 @@ O VENDRA foi idealizado para negócios que precisam de um sistema direto e adapt
 
 A interface utiliza tema **grafite escuro com detalhes dourados**, com foco na leitura das informações e na navegação entre os módulos.
 
-> **Capturas reais em revisão.** Para publicar imagens, substitua os exemplos de demonstração pelos arquivos aprovados, sem dados pessoais, números de telefone, credenciais ou informações de clientes. Consulte [o guia de imagens](assets/screenshots/README.md).
+As imagens abaixo apresentam a interface do VENDRA em ambiente de demonstração, incluindo o painel de indicadores, o histórico de operações e o módulo de caixa e vendas.
 
 <div align="center">
 
